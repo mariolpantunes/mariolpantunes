@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### Mário antunes
+
+
+Researchers | Machine Learning and Artificial Intelligence
+Instituto de Telecomunicações, Aveiro, Portugal | TN-AV \
+University of Aveiro \
+mario.antunes@ua.pt | mario.antunes@av.it.pt \
+[ResearchGate](https://www.researchgate.net/profile/Mario-Antunes-2) | [ORCID]( https://orcid.org/
+0000-0002-6504-9441) | [Linkedin](https://www.linkedin.com/in/mariolpantunes/)
