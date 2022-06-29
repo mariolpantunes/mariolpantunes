@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### Mário antunes
 
 
-Researchers | Machine Learning and Artificial Intelligence \
+Researcher | Machine Learning and Artificial Intelligence \
 Instituto de Telecomunicações, Aveiro, Portugal | TN-AV \
 University of Aveiro \
 mario.antunes@ua.pt | mario.antunes@av.it.pt \
