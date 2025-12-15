@@ -18,8 +18,6 @@ My current research focuses on:
 
 ---
 
-### 📊 Academic & Code Stats
-
-![Google Scholar Stats](https://github.com/mariolpantunes/mariolpantunes/blob/metrics/google-scholar-stats.svg)
+### 📊 Code Stats
 
 ![GitHub stats](https://github-readme-stats.hrun.mooo.com/api?username=mariolpantunes&count_private=true&show_icons=true&theme=default)
